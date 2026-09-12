@@ -1,0 +1,1 @@
+{"name":"오늘의마트","short_name":"오늘의마트","description":"동네 마트 전단 가격 비교","start_url":"/todays-mart-web/","display":"standalone","background_color":"#f6f6f6","theme_color":"#ed5d47","lang":"ko","scope":"/todays-mart-web/","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}

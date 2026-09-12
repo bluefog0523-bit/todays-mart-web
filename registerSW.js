@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/todays-mart-web/sw.js', { scope: '/todays-mart-web/' })})}
